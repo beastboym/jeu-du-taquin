@@ -1,0 +1,29 @@
+    {
+    "files": [
+        "README.md"
+    ],
+    "imageSize": 100,
+    "commit": false,
+    "contributors": [
+        {
+        "login": "Beastboy",
+        "name": "Daouda",
+        "avatar_url": "https://gitlab.com/daouda.e.kanoute",
+        "profile": "",
+        "contributions": [
+            "code",
+            "content"
+        ]
+        },
+        {
+        "login": "Clozed",
+        "name": "Claire  M",
+        "avatar_url": "https://framagit.org/Clozed/",
+        "profile": "https://framagit.org/Clozed/",
+        "contributions": [
+            "code",
+            "content"
+        ]
+        },
+    ],
+    }
