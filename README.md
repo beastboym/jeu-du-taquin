@@ -46,4 +46,4 @@ Et voilàà 😁
 
 Clozed - Claire M [@Clozed](https://framagit.org/Clozed).
 
-Beastboy - Daouda [@beastboy](https://framagit.org/beastboy)
+Beastboy - Moi
